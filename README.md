@@ -5,4 +5,23 @@ DevResizer
 
 🌟 Features
 
-✅ Resize images for various social media platforms✅ Reduce image size (MB/KB) without quality loss✅ Edit images with cropping, rotation, filters, and more✅ User-friendly interface with real-time preview✅ Supports multiple file formats (JPEG, PNG, WebP, etc.)
+✅ Resize images for various social media platforms
+✅ Reduce image size (MB/KB) without quality loss
+✅ Edit images with cropping, rotation, filters, and more
+✅ User-friendly interface with real-time preview
+✅ Supports multiple file formats (JPEG, PNG, WebP, etc.)
+
+📸 Screenshots
+![image](https://github.com/user-attachments/assets/d9c2a5ef-0cf9-4624-b0e7-a322d0d97f0a)
+
+🎮 Live Demo
+
+👉 Try DevResizer in real-time: https://image-resizer-eight.vercel.app/
+
+📬 Contact
+
+For any queries or suggestions, feel free to reach out:
+📧 Email: kaifmumtajansari@gmail.com
+📌 GitHub: https://github.com/Mohammad-Kaif45
+
+⭐ If you find DevResizer useful, don't forget to give it a star ⭐ on GitHub!
