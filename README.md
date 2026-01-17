@@ -6,7 +6,7 @@ DevResizer
 🌟 Features
 
 ✅ Resize images for various social media platforms
-✅ Reduce image size (MB/KB) without quality loss 
+✅ Reduce image size (MB/KB) without quality loss  
 ✅ Edit images with cropping, rotation, filters, and more
 ✅ User-friendly interface with real-time preview
 ✅ Supports multiple file formats (JPEG, PNG, WebP, etc.)
