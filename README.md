@@ -3,7 +3,7 @@ DevResizer
 
 🚀 DevResizer is a powerful and easy-to-use web app that helps you resize images specifically for different social media platforms like LinkedIn, Twitter/X, Instagram, Facebook, and more. It also allows image editing and size reduction (MB/KB), making it an all-in-one tool for optimizing images.
 
-🌟 Features 
+🌟 Features  
  
 ✅ Resize images for various social media platforms
 ✅ Reduce image size (MB/KB) without quality loss   
