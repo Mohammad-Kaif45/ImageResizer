@@ -4,7 +4,7 @@ import { Upload, Download, FileDigit, X } from 'lucide-react';
 const FileSizeResizer: React.FC = () => {
   const [selectedFile, setSelectedFile] = useState<File | null>(null);
   const [previewUrl, setPreviewUrl] = useState<string | null>(null);
-  const [processedUrl, setProcessedUrl] = useState<string | null>(null);
+  const [processedUrl, setProcessedUrl] = useState<string | null>(null); 
   const [targetSize, setTargetSize] = useState<number>(500);
   const [sizeUnit, setSizeUnit] = useState<'KB' | 'MB'>('KB');
   const [quality, setQuality] = useState<number>(90); 
