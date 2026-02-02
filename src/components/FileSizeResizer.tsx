@@ -7,7 +7,7 @@ const FileSizeResizer: React.FC = () => {
   const [processedUrl, setProcessedUrl] = useState<string | null>(null);
   const [targetSize, setTargetSize] = useState<number>(500);
   const [sizeUnit, setSizeUnit] = useState<'KB' | 'MB'>('KB');
-  const [quality, setQuality] = useState<number>(90);
+  const [quality, setQuality] = useState<number>(90); 
   const [originalSize, setOriginalSize] = useState<string>('');
   const [newSize, setNewSize] = useState<string>('');
   const [isProcessing, setIsProcessing] = useState<boolean>(false);
