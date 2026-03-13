@@ -2,7 +2,7 @@ import React, { useState, useRef } from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { Upload, Image as ImageIcon } from 'lucide-react';
 import ImageResizer from './components/ImageResizer';
-import ImageEditor from './components/ImageEditor';  
+import ImageEditor from './components/ImageEditor';   
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import About from './components/About';
